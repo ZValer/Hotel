@@ -2,9 +2,13 @@
 
 
 Contexto
- el problema, describe su contexto y porque crees que es interesante.
- Los hoteles promueven el turismo y la economía del país.
+
+ Los hoteles promueven el turismo y la economía del país. El hotel es una de las partes esenciales para definir el éxito de un viaje, lo que se enfoca a la satisfacción del cliente. Para lograr esto es muy importante el área adminitrativa, llevar un buen registro y una buena organización para así mejorar la calidad de todos los servicios que ofrecen.
  
- ofrecen muchos servicios...
  
- Hotel, cuarto, reservaciones, programar actividades, servicio de transporte, servicio al cuarto.
+ Para desarrollar el programa de la administración de un hotel se prodría considerar 
+ - Persona 
+ - Reservación
+ - Actividad
+ - Servicio de transporte
+ - Servicio al cuarto
