@@ -12,3 +12,7 @@ Contexto
  - Actividad
  - Servicio de transporte
  - Servicio al cuarto
+
+
+Correciones
+https://docs.google.com/document/d/1TzmPYcx5YAL5KVPp4HqTfvnAEfOZuwgNEDUJL-5YXjc/edit?usp=sharing
